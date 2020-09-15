@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+.bg-image {
+  background-image: url("New-Banner-Ontario-Tech-University.png");
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-text {
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.4);
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+<div class="bg-image"></div>
+<div class="bg-text">
+  <h1 style= "font-family: 'Times New Roman', Times, serif;font-size: 50px;">Welcome</h1>
+  <p style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;">My name is Osama Shaikh and I'm a Developer.</p>
+</div>
+</body>
+</html>
+
+<html>
+<title>O.S Webpage</title>
+  <body>
+  <p style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;">Osama Shaikh</p>
+  <p style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;">Faculty of Business and Information Technology</p>
+  <p style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;"><a href="https://ontariotechu.ca/"
+   style="text-decoration: none;color: rgb(8, 171, 212)">Ontario Tech University</a>
+  <p style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;">Undergraduate Student in 2020</p>
+  <p style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;">Email address: osama.shaikh@ontariotechu.net</p>
+  <p style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;">Phone Number: (647)-719-7345</p>
+  <p style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;">LinkedIn: <a href="https://www.linkedin.com/in/osama-shaikh-a54b0438/"
+   style="text-decoration: none;color: rgb(8, 171, 212)">My LinkedIn Profile.</a></p>
+  <h1 style= "font-family: 'Times New Roman', Times, serif;font-size: 30px;">About me</h1>
+  <p style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;">I am currently a fourth-year student at the University of Ontario Institute of Technology pursuing a Bachelor's degree in Information Technology (Technology Management),
+Last Semester GPA: 3.32. I have a lot of developing experience as I have worked in a lot of personal projects over 2018 and 2019, This has allowed me to improve my front end and back end programming skills.
+Currently, I am part of the Computer Science club at Ontario Tech University where I try to take part in the coding competitions to improve my skills and avail more knowledge.
+I appreciate growing my network and anxious to get familiar with new things and meet individual representatives and experts to share my encounters and information.
+contact: <b>osama.shaikh@ontariotechu.net</b> and can check out my github codes here <a href="https://github.com/osamaahmedshaikh"
+style="text-decoration: none;color: rgb(8, 171, 212)">Github.</a></p>
+<h1 style= "font-family: 'Times New Roman', Times, serif;font-size: 30px;">Programming Skills</h1>
+<p style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;">These are my programming skills:</p>
+<dl>
+<dt style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;">Python:</dt>
+<dd style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;">- if, while loop, variables, data types, casting, strings, Booleans, operators, list, tuples, sets, dictionaries, functions, arrays, classes/objects, GUI, try, except, user input, string formatting, lambda, modules, pip, and JSON.</dd>
+<dt style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;">C++:</dt>
+<dd style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;">- if, while loop, variables, data types, casting, strings, Booleans, operators,string formatting.</dd>
+<dt style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;">Html:</dt>
+<dd style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;">- styles, Paragraphs, formatting, comments, quotations, colors, CSS, Bootstrap, and javascript.</dd>
+</dl>
+<h1 style= "font-family: 'Times New Roman', Times, serif;font-size: 30px;">Technical and Professional Skills</h1>
+<p style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;">These are my other technical and professional skills:</p>
+<ol>
+<li style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;"><b>Web Programming:</b> I am really good in web programming everyone admires my html, css and javascript skills. </li>
+<li style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;"><b>Artificial Intelligence:</b> I recently created a jarvis that recognize your voice and it do certain task like greeting you, open webpage, weather and i did coding for it in python. </li>
+</ol>
+<h1 style= "font-family: 'Times New Roman', Times, serif;font-size: 30px;">Course Schedules</h1>
+<p style= "font-family: 'Times New Roman', Times, serif;font-size: 15px;">Here is the table of course that i am taking this semester</p>
+<p style= "margin-left: 40px""font-family: 'Times New Roman', Times, serif;font-size: 15px;"><b>Course Name
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Course Number &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Days and Time
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Instructor</b></p>
+<p style= "margin-left: 40px""font-family: 'Times New Roman', Times, serif;font-size: 15px;">Web Programming
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;INFR 3120 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Monday 2:10 am - 5:00 pm
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof Amirali Abari</p>
+<p style= "margin-left: 40px""font-family: 'Times New Roman', Times, serif;font-size: 15px;">Intro to Computer Security
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; INFR 2600 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tuesday 8:10 am - 9:30 pm
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof Brent MacRaei</p>
+<p style= "margin-left: 40px""font-family: 'Times New Roman', Times, serif;font-size: 15px;">
+High-Tech Marketing
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;BUSI 4210 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Wednesday 11:10 am - 2:00 pm
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prof Wei-Lin Wang</p>
+<p style= "margin-left: 40px""font-family: 'Times New Roman', Times, serif;font-size: 15px;">IT Security Policies and Procedure
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INFR 4680 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Thursday 11:10 am - 2:00 pm
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Prof Julie Thorpe</p>
+<p style= "margin-left: 40px""font-family: 'Times New Roman', Times, serif;font-size: 15px;">Strategic Mngmt for Professional
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BUSI 3700 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Wednesday 5:10 pm - 8:00 pm
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Prof Jeffrey Overall</p>
+
+</div>
+  </body>
+</html>
