@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="mycssadmin.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div class="header">
+        <h1>Admin Pages</h1>
+    </div>
+    <div class="container">
+        <form action="/action_page.php">
+            <div class="row">
+                <div class="col-25">
+                    <label for="fname"><b>Name</b></label>
+                </div>
+                <div class="col-75">
+                    <input type="text" id="fname" name="firstname" placeholder="Full name eg.john">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-25">
+                    <label for="lname"><b>Phone Number</b></label>
+                </div>
+                <div class="col-75">
+                    <input type="text" id="lname" name="lastname" placeholder="Phone number eg.cellphone">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-25">
+                    <label for="lname"><b>Email Address</b></label>
+                </div>
+                <div class="col-75">
+                    <input type="text" id="lname" name="lastname" placeholder="email address eg.name@">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-25">
+                    <label for="subject"><b>About me</b></label>
+                </div>
+                <div class="col-75">
+                    <textarea id="subject" name="subject" placeholder="Write your bio here" style="height:200px"></textarea>
+                </div>
+            </div>
+                <label for="lname"><b>Image file</b></label><br />
+                <input type="file" id="myFile" name="filename">
+            <div class="update">
+                <br /> 
+                <input type="submit" value="Update">
+                <br /><br />
+            </div>
+        </form>
+    </div>
+
+</body>
+</html>
